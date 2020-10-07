@@ -24,7 +24,7 @@ public class AddingMachine {
   }
 
   public String toString () {
-	  return "change"; // return change string which has all operations done to total 
+	  return change; // return change string which has all operations done to total 
   }
 
   public void clear() {
